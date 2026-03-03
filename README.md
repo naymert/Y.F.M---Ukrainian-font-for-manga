@@ -18,4 +18,4 @@ The development process involved software such as **FontForge** and **Inkscape**
 Цей шрифт розповсюджується під ліцензією **SIL Open Font License 1.1**.
 
 ## License
-This font is distributed under the SIL Open Font License 1.1.
+This font is distributed under the **SIL Open Font License 1.1**.
